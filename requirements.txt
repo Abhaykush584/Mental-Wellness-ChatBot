@@ -10,3 +10,13 @@ faiss-cpu
 altair
 tiktoken
 huggingface-hub
+
+streamlit
+streamlit-chat
+langchain
+langchain-community
+langchain-huggingface
+openai
+python-dotenv
+sentence-transformers
+faiss-cpu
